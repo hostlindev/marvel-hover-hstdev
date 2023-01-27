@@ -50,7 +50,8 @@ header .logoBx img {
 }
 .container .card .imgBx img {
   width: 100%;
-  height: 50vh;
+  height: 100vh;
+  max-height: 50vh;
   -o-object-fit: cover;
      object-fit: cover;
 }
